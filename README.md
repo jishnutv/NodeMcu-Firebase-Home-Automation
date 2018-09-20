@@ -7,4 +7,4 @@ This is a simple home automation project using NodeMcu and Firebase
 #### 4. Upload to NodeMcu
 #### 5. Open public fonder inside Automation_App
 #### 6. Open js folder and edit config.js file
-#### 7.Open index.html 
+#### 7. Open index.html with browser
