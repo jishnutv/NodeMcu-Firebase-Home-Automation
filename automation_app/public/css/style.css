@@ -1,0 +1,16 @@
+.main-head {
+    margin-bottom: 40px;
+}
+
+.device-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
+.btn {
+    margin-bottom: 8px;
+    border-radius: 50%;
+    height: 85.7px;
+}
